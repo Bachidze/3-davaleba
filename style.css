@@ -1,0 +1,81 @@
+h1{
+    color: coral;
+    background-color: yellow;
+}
+
+.first-tr{
+    border: 2px solid black;
+}
+
+.first-th{
+    border: 2px solid black;
+}
+
+.age-th{
+    border: 2px solid black;
+}
+
+.first-tr-bgcolor{
+    background-color: aqua;
+}
+
+.dotted-name{
+    border: 2px dotted black;
+    background-color: chocolate;
+}
+
+.dotted-lastname{
+    border: 2px dotted black;
+    background-color: chocolate;
+}
+
+.dotted-age{
+    border: 2px dotted black;
+    background-color: chocolate;
+}
+
+.solid-name{
+    border: 2px solid black;
+    background-color: lightpink;
+}
+
+.solid-lastanme{
+    border: 2px solid black;
+    background-color: lightpink;
+}
+
+.solid-age{
+    border: 2px solid black;
+    background-color: lightpink;
+}
+
+.solid-name-2{
+    border: 3px dotted black;
+    background-color: aquamarine;
+}
+
+.solid-lastanme-2{
+    border: 3px dotted black;
+    background-color: aquamarine;
+}
+
+.solid-age-2{
+    border: 3px dotted black;
+    background-color: aquamarine;
+}
+
+
+.solid-name-3{
+    border: 2px solid black;
+    background-color: hotpink;
+}
+
+.solid-lastanme-3{
+    border: 2px solid black;
+    background-color: hotpink;
+}
+
+.solid-age-3{
+    border: 2px solid black;
+    background-color: hotpink;
+}
